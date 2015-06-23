@@ -8,5 +8,8 @@
 </head>
 <body>
 <a href="Admin/index.jsp"> For Administrator</a> | <a href="abc.jsp"> For Applicants</a>
+
+<a href="Admin/index.jsp"> For Administrator</a> | <a href="index.jsp"> For Applicants</a>
+
 </body>
 </html>
